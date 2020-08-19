@@ -2,6 +2,7 @@
   "name": "democratizingdata",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zeptozinc.github.io/democratizingdata",
   "dependencies": {
     "@emotion/core": "^10.0.35",
     "@reduxjs/toolkit": "^1.4.0",
